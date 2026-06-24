@@ -17,9 +17,9 @@ in the software supply chain.
 > - v4 will reach end-of-life in December 2026, *~6 months* after v5 GA.
 
 ## Documentation
-
+frontekfinance
 User-facing documentation is rendered at <https://dependencytrack.github.io/docs/> and maintained in the [docs](https://github.com/DependencyTrack/docs) repository.
-
+@@fyinformation=cc@@
 ## Contributing
 
 1. [Code of conduct](CODE_OF_CONDUCT.md)
