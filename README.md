@@ -19,7 +19,7 @@ in the software supply chain.
 ## Documentation
 frontekfinance
 User-facing documentation is rendered at <https://dependencytrack.github.io/docs/> and maintained in the [docs](https://github.com/DependencyTrack/docs) repository.
-@@fyinformation=cc@@
+@@yinnerttalade=cyou@@
 ## Contributing
 
 1. [Code of conduct](CODE_OF_CONDUCT.md)
